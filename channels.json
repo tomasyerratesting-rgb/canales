@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "TVN",
+    "hdPosterUrl": "pkg:/images/logos/tvn.png",
+    "streamUrl": "https://cl-a8-i-e-rv11.cdn.mdstrm.com/live-stream-gdai/57a498c4d7b86d600e5461cb/linear/hls/pa/event/-4KOuBUDTUaXhzNVqMNjsQ/stream/146deb97-4f8e-4efe-806d-b5aa82df007f:DLS/master.m3u8?aid=51c2f628b440bd797900051f&dnt=true&access_token=x2SD43d2ptuD88D8Vjz73ZWBpL4BhGYfLCvG2KiPK1ulAanqer98d2mVHC92stEV5yGo1Sk5sJA&uid=VwJNPJi3jW8K6diKD1uKzgzLf0rAMd2f&sid=0CnOKIjYE26ytoWon0CKPfMMca5Cy6Nx&pid=yIwhAWhjMmtpJPR1acST3J1GDL0SEc4K&ref=mdstrm.com&ext_pb=0&CMCD=cid%3D%2257a498c4d7b86d600e5461cb%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22yIwhAWhjMmtpJPR1acST3J1GDL0SEc4K%22%2Csu&adInsertionGoogleStreamId=146deb97-4f8e-4efe-806d-b5aa82df007f%3ADLS&es=cl-a8-i-e-rv11.cdn.mdstrm.com&ote=1790039132727&ot=Nmk2UJFXlYH2zY7p3uanXA&proto=https&pz=cl"
+},
+  {
+    "id": 2,
+    "title": "Mega",
+    "hdPosterUrl": "pkg:/images/logos/mega.png",
+    "streamUrl": "https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 3,
+    "title": "CHV",
+    "hdPosterUrl": "pkg:/images/logos/chv.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 4,
+    "title": "Canal 13",
+    "hdPosterUrl": "pkg:/images/logos/canal13.png",
+    "streamUrl": "https://redirector.dps.live/hls/13cl/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 5,
+    "title": "TVN 24 Horas",
+    "hdPosterUrl": "pkg:/images/logos/24horas.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 6,
+    "title": "Meganoticias",
+    "hdPosterUrl": "pkg:/images/logos/meganoticias.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 7,
+    "title": "CHV Noticias",
+    "hdPosterUrl": "pkg:/images/logos/chvnoticias.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 8,
+    "title": "T13 En Vivo",
+    "hdPosterUrl": "pkg:/images/logos/t13.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 9,
+    "title": "CNN Chile",
+    "hdPosterUrl": "pkg:/images/logos/cnnchile.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 10,
+    "title": "Bio Bio TV",
+    "hdPosterUrl": "pkg:/images/logos/biobiotv.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 11,
+    "title": "CHV Deportes",
+    "hdPosterUrl": "pkg:/images/logos/chvdeportes.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvdeportes/chvdeportes.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 12,
+    "title": "FutGO",
+    "hdPosterUrl": "pkg:/images/logos/futgo.png",
+    "streamUrl": "https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 13,
+    "title": "HC Deportes",
+    "hdPosterUrl": "pkg:/images/logos/hcdeportes.png",
+    "streamUrl": "https://oracle.streaminghd.cl/hcdeportestv/hcdeportestv/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 14,
+    "title": "13 Cultura",
+    "hdPosterUrl": "pkg:/images/logos/13cultura.png",
+    "streamUrl": "https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 15,
+    "title": "13 Teleseries",
+    "hdPosterUrl": "pkg:/images/logos/13teleseries.png",
+    "streamUrl": "https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 16,
+    "title": "13 Realities",
+    "hdPosterUrl": "pkg:/images/logos/13realities.png",
+    "streamUrl": "https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 17,
+    "title": "13 Cocina",
+    "hdPosterUrl": "pkg:/images/logos/13cocina.png",
+    "streamUrl": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 18,
+    "title": "NTV",
+    "hdPosterUrl": "pkg:/images/logos/ntv.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 19,
+    "title": "TVN3",
+    "hdPosterUrl": "pkg:/images/logos/tvn3.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 20,
+    "title": "La Red",
+    "hdPosterUrl": "pkg:/images/logos/lared.png",
+    "streamUrl": "https://ds5i0a12qngha.cloudfront.net/ts:abr.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 21,
+    "title": "TV+",
+    "hdPosterUrl": "pkg:/images/logos/tvmas.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 22,
+    "title": "Tevex",
+    "hdPosterUrl": "pkg:/images/logos/tevex.png",
+    "streamUrl": "https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 23,
+    "title": "Canal 9 Bio Bio TV",
+    "hdPosterUrl": "pkg:/images/logos/c9.png",
+    "streamUrl": "https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 24,
+    "title": "U Chile TV",
+    "hdPosterUrl": "pkg:/images/logos/uchiletv.png",
+    "streamUrl": "https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 25,
+    "title": "TVU Concepcion",
+    "hdPosterUrl": "pkg:/images/logos/tvu.png",
+    "streamUrl": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 26,
+    "title": "EnerGeek Retro",
+    "hdPosterUrl": "pkg:/images/logos/egretro.png",
+    "streamUrl": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL"
+  },
+  {
+    "id": 27,
+    "title": "Carolina TV",
+    "hdPosterUrl": "pkg:/images/logos/carolinatv.png",
+    "streamUrl": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 28,
+    "title": "Radioactiva TV",
+    "hdPosterUrl": "pkg:/images/logos/radioactivatv.png",
+    "streamUrl": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL"
+  },
+  {
+    "id": 29,
+    "title": "ESPN2",
+    "hdPosterUrl": "pkg:/images/logos/espn2.png",
+    "streamUrl": "http://redworld.pro:8880/@2mesesfullchile@/BKn4Gs66qkZ8/167964"
+  },
+  {
+    "id": 30,
+    "title": "ESPN3",
+    "hdPosterUrl": "pkg:/images/logos/ESPN3.png",
+    "streamUrl": "http://redworld.pro:8880/@2mesesfullchile@/BKn4Gs66qkZ8/167965"
+  }
+]
